@@ -3,7 +3,7 @@
 # Anuj Kuntal – Portfolio
 
 🚀 **Live Portfolio Website**  
-👉 https://portfolio-main-five-zeta.vercel.app/
+👉 https://anujkuntal.vercel.app
 
 ## About Me
 I am a passionate Full Stack Developer focused on building clean,
